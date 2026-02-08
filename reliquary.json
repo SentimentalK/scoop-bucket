@@ -1,0 +1,15 @@
+{
+    "version": "0.5.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/SentimentalK/Reliquary/releases/download/v0.5.1/reliquary_Windows_x86_64.tar.gz",
+            "bin": [
+                "reliquary.exe"
+            ],
+            "hash": "bdcc0bca50cdebedc92c4f74e31f4039f25a088b8761b499c0939c523e64c3c8"
+        }
+    },
+    "homepage": "https://github.com/SentimentalK/Reliquary",
+    "license": "Private",
+    "description": "Your digital asset guardian."
+}
