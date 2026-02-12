@@ -1,12 +1,12 @@
 {
-    "version": "0.8.1",
+    "version": "0.8.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SentimentalK/Reliquary/releases/download/v0.8.1/reliquary_Windows_x86_64.tar.gz",
+            "url": "https://github.com/SentimentalK/Reliquary/releases/download/v0.8.2/reliquary_Windows_x86_64.tar.gz",
             "bin": [
                 "reliquary.exe"
             ],
-            "hash": "21635d8fb09adcfb78c11858382be56b27c4416005a5b0cef7a4ebc155f32874"
+            "hash": "37a116c0d1b18f7e5bfbac480adf6446fc43f11b37733a63590b2312cb1e4c8b"
         }
     },
     "homepage": "https://github.com/SentimentalK/Reliquary",
